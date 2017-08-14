@@ -1,0 +1,22 @@
+{
+  "name": "eudes-silva",
+  "version": "0.0.1",
+  "description": "example rabbitmq",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "rabbitmq",
+    "queue"
+  ],
+  "author": "eudes-silva",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}

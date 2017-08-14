@@ -7,11 +7,14 @@ Exchanges  In previous parts of the tutorial we sent and received messages to an
 
 #Run
 ```
-$ node producer.js 
+$ node consumer.js 
 ```
 
 ##### Next
 ```
-$ node consumer.js
+$ node producer.js
 
 ```
+
+[official site](https://www.rabbitmq.com)
+
